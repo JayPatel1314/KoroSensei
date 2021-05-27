@@ -30,7 +30,7 @@ REMEMBER: Turn on worker dyno (Don't worry It's free :D) & Webhook
 Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.com/apps/(app-name)/settings and remove webhook and port.
 ```
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnimeKaizoku/SaitamaRobot.git)
+  <p><a href="https://heroku.com/deploy"> <img SRC="https://img.shields.io/badge/Deploy%20To%20Heroku-neonred?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 </details>  
 <details>

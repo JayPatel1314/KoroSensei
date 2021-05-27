@@ -86,9 +86,9 @@ buttons = [
 
 HELP_STRINGS = """
 *Main Commands :* [ʕ·ᴥ·ʔ](https://telegra.ph/file/923977a7e7a903dd82a31.jpg)
-✪ /start: Starts me! You've probably already used this.
-✪ /help: Click this, I'll let you know about myself!
-✪ /settings: 
+☫ /start: Starts me! You've probably already used this.
+☫ /help: Click this, I'll let you know about myself!
+☫ /settings: 
    ◔ in PM: will send you your settings for all supported modules.
    ◔ in a Group: will redirect you to pm, with all that chat's settings.
 """

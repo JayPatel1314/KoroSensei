@@ -59,7 +59,7 @@ from SaitamaRobot.modules.helper_funcs.readable_time import get_readable_time
 
 
 PM_START_TEXT = """
-Hello there,The name's [𝑲𝒐𝒓𝒐 𝑺𝒆𝒏𝒔𝒆𝒊](https://telegra.ph/file/5bcbee541234987308553.jpg)
+Hello there,The name's [𝑲𝒐𝒓𝒐 𝑺𝒆𝒏𝒔𝒆𝒊](https://telegra.ph/file/923977a7e7a903dd82a31.jpg)
 I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your 𝑔𝑟𝑜𝑢𝑝
 
 ✫ Make sure you read *INFO* Section Below. ✫
@@ -85,7 +85,7 @@ buttons = [
 
 
 HELP_STRINGS = """
-*Main Commands :* [ʕ·ᴥ·ʔ](https://telegra.ph/file/5534384d2f2b2d8e6fdbb.jpg)
+*Main Commands :* [ʕ·ᴥ·ʔ](https://telegra.ph/file/923977a7e7a903dd82a31.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /settings: 

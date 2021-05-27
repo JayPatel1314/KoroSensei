@@ -1,3 +1,4 @@
+cloudscraper
 future
 bs4
 telegraph

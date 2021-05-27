@@ -59,7 +59,7 @@ from SaitamaRobot.modules.helper_funcs.readable_time import get_readable_time
 
 
 PM_START_TEXT = """
-Hello there,The name's [𝑲𝒐𝒓𝒐 𝑺𝒆𝒏𝒔𝒆𝒊](https://telegra.ph/file/923977a7e7a903dd82a31.jpg)
+Hello there,The name's [𝑲𝒐𝒓𝒐 𝑺𝒆𝒏𝒔𝒆𝒊](https://telegra.ph/file/dab99f120c266fdbe1afc.jpg)
 I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your 𝑔𝑟𝑜𝑢𝑝
 
 ✫ Make sure you read *INFO* Section Below. ✫
@@ -251,9 +251,9 @@ def SaitamaRobot_about_callback(update, context):
     if query.data == "aboutmanu_":
         query.message.edit_text(
             text=f"*Hi again! The name's {dispatcher.bot.first_name}. \n\nAs  You I'm An Anime Themed Group Management Bot.* "
-                 f"\n\n Join [Updates Channel](https://t.me/SuzuyaUpdates) To Keep Yourself Updated About {dispatcher.bot.first_name}."
-                 f"\n\n I have the normal GROUP MANAGING functions like flood control, a warning system etc but I mainly have the advanced and handy Antispam system and the SIBYL banning system which safegaurds and helps your group from spammers."
-                 f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features. [◖⚆ᴥ⚆◗](https://telegra.ph/file/7f6a4d656e89553340af9.jpg)."
+                 f"\n\n Join [Updates Channel](https://t.me/KoroSenseiUpdates) To Keep Yourself Updated About {dispatcher.bot.first_name}."
+                 f"\n\n I have the NORMAL GROUP MANAGING functions like flood control, a warning system etc but I mainly have the advanced and handy Antispam system that protects your group from spammers."
+                 f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features. [◖⚆ᴥ⚆◗](https://telegra.ph/file/dab99f120c266fdbe1afc.jpg)."
                  f"\n\nYou Can Know More About Me By Clicking The Below Buttons.",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -298,7 +298,7 @@ def SaitamaRobot_about_callback(update, context):
     elif query.data == "aboutmanu_credit":
         query.message.edit_text(
             text=f"*{dispatcher.bot.first_name} Is A Powerful Bot For Managing Groups With Additional Features.*"
-                 f"\n\nFork Of [Shoko](https://github.com/gizmostuffin/Shoko) + [Saitama](https://github.com/AnimeKaizoku/SaitamaRobot)."
+                 f"\n\nFork Of [Shoko](https://github.com/gizmostuffin/Shoko) + [Saitama](https://github.com/AnimeKaizoku/SaitamaRobot) +  [Suzuya](https://github.com/Godzilla-0/Suzuya_ProBot)."
                  f"\n\n{dispatcher.bot.first_name}'s Licensed Under The GNU _(General Public License v3.0)_"
                  f"\n\nIf Any Question About {dispatcher.bot.first_name}, \nLet Us Know At @{SUPPORT_CHAT}.",
             parse_mode=ParseMode.MARKDOWN,

@@ -59,9 +59,10 @@ from SaitamaRobot.modules.helper_funcs.readable_time import get_readable_time
 
 
 PM_START_TEXT = """
-Hello there,The name's [𝙎𝙪𝙯𝙪𝙮𝙖](https://telegra.ph/file/5bcbee541234987308553.jpg)
-I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your group
-✪ Make sure you read *INFO* Section Below.✪ 
+Hello there,The name's [𝑲𝒐𝒓𝒐 𝑺𝒆𝒏𝒔𝒆𝒊](https://telegra.ph/file/5bcbee541234987308553.jpg)
+I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your 𝑔𝑟𝑜𝑢𝑝
+
+✫ Make sure you read *INFO* Section Below. ✫
 """
 
 buttons = [
@@ -77,7 +78,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-        text="💫 Add Suzuya to your group 💫", url="t.me/suzuya_probot?startgroup=true"
+        text="💫『Koro Sensei』 to your group 💫", url="t.me/KoroSenseiRobot?startgroup=true"
         ),
     ]
 ]
